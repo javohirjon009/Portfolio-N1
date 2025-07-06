@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Food",
+    "desc": "Html and Css yozilgan kichi web dizayn. Bu dizaynni o'rganish uchun ishlatishingiz mumkin.  ",
+    "image": "food",
+    "category": "mern",
+    "links": {
+      "view": "https://food-alpha-nine.vercel.app/",
+      "code": "https://github.com/javohirjon009/Food"
+    }
+  },
+  {
+    "name": "Monkeytype clone",
+    "desc": "Monkeytype - bu yozish tezligini oshirish uchun mo'ljallangan veb-ilova. Ushbu loyiha asl Monkeytype ilovasining klonidir.",
+    "image": "monkeytype",
+    "category": "mern",
+    "links": {
+      "view": "https://monkeytype-pied.vercel.app/",
+      "code": "https://github.com/javohirjon009/Monkeytype"
+    }
+  },
+  {
+    "name": "Cyber web-site",
+    "desc": "Cyber web-site - bu React, Tailwind CSS va Fremwork yordamida yaratilgan zamonaviy veb-sayt. Bu loyiha zamonaviy uslubda yaratilgan.",
+    "image": "cyber",
+    "category": "mern",
+    "links": {
+      "view": "https://imtihon-pearl-nine.vercel.app/",
+      "code": "https://github.com/javohirjon009/imtihon"
+    }
+  },
+  {
+    "name": "Quick Cart",
+    "desc": "Quick Cart - bu Next.js, aplication va Tailwind CSS yordamida yaratilgan kichik bir sahifali web-design.",
+    "image": "quickcart",
+    "category": "mern",
+    "links": {
+      "view": "https://nextjs-plum-two-60.vercel.app/",
+      "code": "https://github.com/javohirjon009/nextjs"
+    }
+  },
+  {
+    "name": "Nest",
+    "desc": "Nest bu- React js yordamida qilinayotgan kotta ecommerce bu loyiha ustida ishlanmoqda.",
+    "image": "nest",
+    "category": "lamp",
+    "links": {
+      "view": "https://nest-jet-ten.vercel.app/home",
+      "code": "https://github.com/mukhriddin42/e-commerce-ui"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "Bu Mani kichik portfolio sahifam. Bu Html css va JavaScript yordamida yaratilgan. Buni ustida hali ishliyman va Rect js da qilish niyat bor.",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  }
+]
