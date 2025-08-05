@@ -30,13 +30,13 @@
     }
   },
   {
-    "name": "Quick Cart",
-    "desc": "Quick Cart - bu Next.js, aplication va Tailwind CSS yordamida yaratilgan kichik bir sahifali web-design.",
-    "image": "quickcart",
+    "name": "Bellissimo Uz Clone",
+    "desc": "Bellissimo Uz - bu Next.js, aplication va Tailwind CSS yordamida yaratilgan kotta loyiha bu Abichni Saytni clone.",
+    "image": "bellissimo",
     "category": "mern",
     "links": {
-      "view": "https://nextjs-plum-two-60.vercel.app/",
-      "code": "https://github.com/javohirjon009/nextjs"
+      "view": "https://bellissimo-uz-clone.vercel.app/",
+      "code": "https://github.com/javohirjon009/bellissimo-uz"
     }
   },
   {
